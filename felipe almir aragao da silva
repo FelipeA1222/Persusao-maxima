@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Persuasão Máxima - O Método Definitivo</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; background-color: #f4f4f4; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #222; }
+        .cta-button { background: #ff9800; color: white; padding: 15px; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 18px; }
+        .cta-button:hover { background: #e68900; }
+        .testimonials { margin-top: 20px; font-style: italic; color: #555; }
+        .footer { margin-top: 20px; font-size: 14px; color: #777; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Persuasão Máxima</h1>
+        <h2>O Método Definitivo para Vender Mais e Influenciar Pessoas</h2>
+        <p>Aprenda as técnicas mais eficazes de persuasão para multiplicar suas vendas e impactar positivamente as pessoas ao seu redor.</p>
+        <a href="#" class="cta-button">Compre Agora</a>
+        <div class="testimonials">
+            <p>"Este livro transformou minhas habilidades de vendas!" - João S.</p>
+            <p>"A melhor leitura para quem quer influenciar com ética e eficiência." - Maria P.</p>
+        </div>
+        <div class="footer">
+            <p>Entre em contato: contato@seudominio.com</p>
+        </div>
+    </div>
+</body>
+</html>
